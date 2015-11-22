@@ -1,0 +1,4 @@
+AuthUserFile /f2/jfeustel/protected/secret-htpasswd
+AuthName "Enter Login Information."
+AuthType Basic
+require valid-user
