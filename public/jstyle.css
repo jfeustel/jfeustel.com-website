@@ -1,0 +1,24 @@
+body{
+	background-image: url("wallpaper0.jpg");
+}
+
+p{
+	text-align: center;
+}
+
+.center{
+	margin: auto;
+	width: 50%;
+	color: white;
+	font-family: "Helvetica";
+}
+
+.bigger{ 
+	font-size: 300%;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-family: "Helvetica";
+}
+
+
