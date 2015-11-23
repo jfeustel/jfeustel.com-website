@@ -13,12 +13,20 @@ p{
 	font-family: "Helvetica";
 }
 
-.bigger{ 
+.biggest{ 
 	font-size: 300%;
 	text-align: center;
 	font-weight: bold;
 	color: white;
 	font-family: "Helvetica";
 }
+.bigger{ 
+	font-size: 130%;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-family: "Helvetica";
+}
+
 
 
