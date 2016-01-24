@@ -12,6 +12,13 @@ p{
 	color: white;
 	font-family: "Helvetica";
 }
+.construction{ 
+	font-size: 400%;
+	text-align: center;
+	font-weight: bold;
+	color: red;
+	font-family: "Impact";
+}
 
 .biggest{ 
 	font-size: 300%;
